@@ -1,6 +1,6 @@
 /*
 *URLGenerator.java
-*@author Artem Chaykovskyy, Student ID x23224746
+*@author Artem Rubin
 *6th Jan 2024
 */
 
